@@ -1,13 +1,13 @@
 
 @media  sreen and (min-width:576px) {
    
-    img{} 
+    
 
 
 }
 
 body{
-    background-color: rgb(47, 97, 117);
+    background-color: gray;
     display: flex;
     justify-content: center;
 }
@@ -33,4 +33,12 @@ form i {
 li i {
     color: #fff;
     font-size: 1.3rem;
+}
+
+#pBar-orange{
+    color:rgb(255, 139, 30)
+}
+
+.modal{ 
+    cursor:pointer;
 }
